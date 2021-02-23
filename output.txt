@@ -1,0 +1,20 @@
+Binding the port: 7001
+myShell> Connection has been established to:
+         IP : 127.0.0.1
+         PORT : 36796
+Connection has been established to:
+         IP : 127.0.0.1
+         PORT : 36798
+list
+
+Connected Clients        :
+0   127.0.0.1   36796
+1   127.0.0.1   36798
+
+Number of active Clients :  2
+
+myShell> select 0
+You are now connected to :127.0.0.1
+/myPython/ServerClient> ls
+client_socket.py
+server_socket.py
